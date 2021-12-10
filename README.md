@@ -57,8 +57,8 @@
     </a> 
 </p>
 
-- Check my new sammary in data structure in this repositery: <a href="https://github.com/Ahmed31916/data-structure-summary">Data Structure </a> 
-- 📫 You can contact me at **ahmed31916@gmail.com**
+## My Summary Topics:
+- Summary of Data Structure: <a href="https://github.com/Ahmed31916/data-structure-summary">Data Structure </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,3 +71,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed31916&show_icons=true&locale=en&layout=compact" alt="ahmed31916" /><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed31916&show_icons=true&locale=en" alt="ahmed31916" />
 
+- 📫 You can contact me at **ahmed31916@gmail.com**
